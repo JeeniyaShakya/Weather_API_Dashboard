@@ -27,9 +27,8 @@ This project demonstrates:
 - **Enhanced Data Presentation:** Polished, interactive dashboard enhances understanding and user experience
 - **Showcasing Advanced Power BI Skills:** Highlights proficiency in Power Query, data modeling, DAX, and dashboard design
 
-## Screenshots of Dashboard
-*Add your dashboard screenshots here*
-![Dashboard Screenshot](Screenshot 2026-01-28 110936.png)
+## Screenshot of Dashboard
+![Dashboard Screenshot](https://github.com/JeeniyaShakya/Weather_API_Dashboard/blob/main/Screenshot%202026-01-28%20110936.png)
 
 ## Techniques Used
 - **API Integration:** Connected Power BI to WeatherAPI.com via web data source
