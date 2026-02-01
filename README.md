@@ -1,7 +1,7 @@
 # Weather API Dashboard
 
 ## Problem Statement
-Many data analysis projects rely on static CSV files, which do not provide real-time or dynamic data. There is a need for a project that utilizes a live data source to demonstrate advanced Power BI capabilities and create an interactive, real-time dashboard. The absence of such projects can negatively impact a data analyst’s portfolio and interview readiness.
+Many data analysis projects rely on static CSV files, which do not provide real-time or dynamic data. There is a need for a project that utilizes a live data source to demonstrate advanced Power BI capabilities and create an interactive, real-time dashboard. 
 
 ## Goal / Purpose
 The primary goal of this project is to develop a **real-time weather dashboard** using Power BI by connecting to a weather API. This project demonstrates end-to-end data analysis skills, including:
